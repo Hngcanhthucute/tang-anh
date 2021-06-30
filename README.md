@@ -20,7 +20,7 @@ const CONFIG = {
     btnNo: 'Không, em bị điên à 😈',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại chọn em <3',
     btnReply: 'Gửi cho Thư cute hihi <3',
-    reply: 'Tại vi em xink dep tuyet voi, oh em biu ti ful li.',
+    reply: 'Tại vi em xink dep tuyet voi,oh yeeeeah .',
     mess: 'Em biết mà 🤣. Ghê hong ghê hong🤠',
     messDesc: 'Tối nay 10h ngủ nhé babii.',
     btnAccept: 'Okii em nè.<3🥰',
