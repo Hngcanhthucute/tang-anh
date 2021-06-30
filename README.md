@@ -18,7 +18,7 @@ const CONFIG = {
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích cháu lắm chớ đùa <33',
     btnNo: 'Không, cháu à ',
-    question:'Trên thế giới hơn 7 tỉ người mà sao chú lại zui xẻo quá <3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao chú lại xui xẻo quá <3',
     btnReply: 'Gửi cho Thư cute hihi <3',
     reply: 'Tại vi cháu xink dep tuyet voi,oh yeeeeah .',
     mess: 'Cháu biết mà 🤣. Sắp cười ẻ tới nơi r🤠',
